@@ -1,4 +1,6 @@
-namespace tirocinio;
+namespace tirocinio.Data;
+
+using tirocinio.Models;
 
 public static class DataOrder
 {

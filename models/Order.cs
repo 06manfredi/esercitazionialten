@@ -1,4 +1,4 @@
-namespace tirocinio;
+namespace tirocinio.Models;
 
 public class Order
 {

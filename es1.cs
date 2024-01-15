@@ -1,5 +1,7 @@
 namespace tirocinio;
 
+using tirocinio.Data;
+
 public class Esercizio1
 {
     public static void Run()

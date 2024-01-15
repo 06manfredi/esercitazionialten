@@ -4,14 +4,7 @@ public class Esercizio1
 {
     public static void Run()
     {
-        var mario = new Customer("Mario");
-        var luigi = new Customer("Luigi");
-
-        var ordini = new List<Order>();
-
-        ordini.Add(new Order("Penne", 2, 1.5, mario));
-        ordini.Add(new Order("Cartucce", 4, 0.5, luigi));
-        ordini.Add(new Order("Tappi", 5, 1, mario));
+        var ordini = DataOrder.Get();
 
         Console.WriteLine("Ordini:");
 

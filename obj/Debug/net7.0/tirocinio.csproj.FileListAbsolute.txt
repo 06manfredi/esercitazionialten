@@ -1,0 +1,15 @@
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\bin\Debug\net7.0\tirocinio.exe
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\bin\Debug\net7.0\tirocinio.deps.json
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\bin\Debug\net7.0\tirocinio.runtimeconfig.json
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\bin\Debug\net7.0\tirocinio.dll
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\bin\Debug\net7.0\tirocinio.pdb
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\obj\Debug\net7.0\tirocinio.csproj.AssemblyReference.cache
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\obj\Debug\net7.0\tirocinio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\obj\Debug\net7.0\tirocinio.AssemblyInfoInputs.cache
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\obj\Debug\net7.0\tirocinio.AssemblyInfo.cs
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\obj\Debug\net7.0\tirocinio.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\obj\Debug\net7.0\tirocinio.dll
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\obj\Debug\net7.0\refint\tirocinio.dll
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\obj\Debug\net7.0\tirocinio.pdb
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\obj\Debug\net7.0\tirocinio.genruntimeconfig.cache
+C:\Users\lorenzo.g\Downloads\tirocinio\esercitazionialten\obj\Debug\net7.0\ref\tirocinio.dll

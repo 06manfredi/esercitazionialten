@@ -2,10 +2,6 @@ namespace tirocinio.Models;
 
 public class Customer
 {
-    public string name;
-
-    public Customer(string name)
-    {
-        this.name = name;
-    }
+    public int CustomerId { get; set; }
+    public string Name {get; set;}
 }
